@@ -18,7 +18,7 @@ redirect_from:
 
 
 # Recent News
-* September 3, 2019. [One paper] (https://ieeexplore.ieee.org/abstract/document/8820698) presented to Agro-Geoinformatics 2019. (oral presentation)
+* September 3, 2019. [One paper] (https://ieeexplore.ieee.org/abstract/document/8820698) presented to Agro-Geoinformatics 2019. (oral presentation) [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/)
 * July 22, 2019. [One paper] (https://ieeexplore.ieee.org/document/8767819) presented at RAST 2019. (oral presentation)
 * February 21, 2019. [One paper] (https://www.mdpi.com/2220-9964/8/2/97) in ISPRS International Journal of Geo-Information.
 * February 15, 2019. [One paper] (https://www.mdpi.com/2076-3417/9/4/655) published in Applied Sciences. 
