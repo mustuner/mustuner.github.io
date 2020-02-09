@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Mustafa Ustuner"
   avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "Research Assistant, Geomatic Engineering Department, Yildiz Technical University"
+  location         : "Istanbul, Turkey"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@cs.stanford.edu"
+  googlescholar    : "https://scholar.google.com.tr/citations?user=KtXqoWkAAAAJ&hl=tr"
+  email            : "mustuner@yildiz.edu.tr"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,13 +91,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/mustuner34/"
+  orcid            : "https://orcid.org/0000-0003-0553-2682"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
