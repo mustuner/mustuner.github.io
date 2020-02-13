@@ -3,7 +3,7 @@ title: "Polarimetric Target Decompositions and Light Gradient Boosting Machine f
 collection: publications
 permalink: /publications/lgbm
 journal: "ISPRS International Journal of Geo-Information"
-date: 2018-4-14
+date: 2019-2-21
 citation: '<b>M. Ustuner</b> and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation,” ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.'
 ---
 [[PDF]](http://mustuner.github.io/files/lgbm.pdf)
