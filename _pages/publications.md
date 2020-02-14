@@ -11,21 +11,21 @@ author_profile: true
 Rouhollah Nasirzadehdizaji, Fusun Balik Sanli, Saygin Abdikan, Ziyadin Cakir, Ali Ihsan Sekertekin, <b>Mustafa Ustuner</b>.
 Applied Sciences, vol. 9, no. 4, p. 655, Feb. 2019.
 
-<b>[Infomax Neural Joint Source-Channel Coding via Adversarial Bit Flip](http://lantaoyu.com/publications/IABF)</b> <br> 
-Yuxuan Song, Minkai Xu, <b>Lantao Yu</b>, Hao Zhou, Shuo Shao, Yong Yu.
-<i>The 34th AAAI Conference on Artificial Intelligence</i>. <b>AAAI 2020</b>.
+<b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> <br> 
+<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
+<i>2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)</i>.
 
-<b>[Meta-Inverse Reinforcement Learning with Probabilistic Context Variables](http://lantaoyu.com/publications/MetaIRL)</b> <br> 
-<b>Lantao Yu</b>\*, Tianhe Yu\*, Chelsea Finn, Stefano Ermon.
-<i>The 33rd Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2019</b>.
+<b>[An Assessment of Urban Area Extraction Using ALOS-2 Data](http://mustuner.github.io/publications/urbanarea)</b> <br> 
+Saygin Abdikan, Caglar Bayik, Fusun Balik Sanli, <b>Mustafa Ustuner</b>.
+<i>2019 9th International Conference on Recent Advances in Space Technologies (RAST)</i>.
 
-<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
-<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <span style="color:red">(Long Oral)</span>
+#<b>[Multi-Agent Adversarial Inverse Reinforcement Learning](http://lantaoyu.com/publications/MAAIRL)</b> <br> 
+#<b>Lantao Yu</b>, Jiaming Song, Stefano Ermon.
+#<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>. <span style="color:red">(Long Oral)</span>
 
-<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
-Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
-<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
+#<b>[CoT: Cooperative Training for Generative Modeling of Discrete Data](http://lantaoyu.com/publications/CoT)</b> <br>
+#Sidi Lu, <b>Lantao Yu</b>, Siyuan Feng, Yaoming Zhu, Weinan Zhang, Yong Yu.
+#<i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
 
 <b>[Lipschitz Generative Adversarial Nets](http://lantaoyu.com/publications/LGAN)</b> <br>
 Zhiming Zhou, Jiadong Liang, Yuxuan Song, <b>Lantao Yu</b>, Hongwei Wang, Weinan Zhang, Yong Yu, Zhihua Zhang. <i>The 36th International Conference on Machine Learning</i>. <b>ICML 2019</b>.
