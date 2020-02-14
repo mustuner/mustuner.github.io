@@ -1,0 +1,15 @@
+---
+title: "Evaluating the Cloude-Pottier Decomposition for Crop Classification using Multi-Temporal RADARSAT-2 Data"
+collection: publications
+permalink: /publications/cp
+venue: "The 9th International Workshop on Science and Applications of SAR Polarimetry and Polarimetric Interferometry"
+date: 2018-4-12
+citation: '<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Esra Erten, Carlos Lopez Martinez. The 9th International Workshop on Science and Applications of SAR Polarimetry and Polarimetric Interferometry.'
+---
+[[PDF]](http://mustuner.github.io/files/cp.pdf)
+
+
+## Abstract
+<p align="justify">
+Crops have very dynamic structure and various scattering characteristics over the phenological growth stages. Polarimetric SAR (PolSAR) images are the important data source for large-scale/time-critical agricultural practices and able to provide the details about the structural and geometrical properties of the crops. In this study, the potential of the Cloude-Pottier decomposition for the crop classification using multi-temporal Radarsat-2 SAR (single look complex full polarimetric data with fine quad-polarization acquisition mode) data is evaluated. Cloude-Pottier decomposition (also known H-A-α decomposition) which is based on the eigen-decomposition of the coherency matrix [T] compute three polarimetric parameters: entropy (H), anisotropy (A), mean alpha angle (α). This mean alpha angle (α) is the weighted average of alpha1 (α1), alpha2 (α2) and alpha3 (α3) angles. The alpha angle (αi) can sometimes be preferred over mean alpha angle since mean alpha angle can be very noisy especially for low Entropy scatterers. To investigate the impact of each alpha angle (αi) as well as other polarimetric parameters of Cloude-Pottier decomposition for the crop classification, five different dataset were generated: (I) H-A-α1, (II) H-A-α2, (III) H-A-α3, (IV) H-A-α, (V) Lambda1-Lambda2-Lambda3 (eigenvalues). For the classification of the crop types (maize, potato, summer wheat, sunflower, and alfalfa) in the test site, two different classification models (random forest and extremely randomized trees) were implemented. The classification of the PolSAR data was exploited in the radar geometry. The experimental results demonstrate that dataset-II obtained higher classification accuracy (79.59% for random forest and 79.85% for extremely randomized trees) than other datasets except dataset-V for both classification models. The highest classification accuracy was obtained from dataset-V as 88.23% for extremely randomized trees while the lowest accuracy was received by dataset-III as 74.35% for random forest. Dataset-I also outperformed dataset-IV in terms of classification accuracy. This experimental study suggests that alpha angles (i.e. alpha2 or alpha1) can be considered as an alternative parameter instead of mean alpha angle as the third component of Cloude-Pottier decomposition for the crop classification. In addition, the findings prove the multi-temporal PolSAR data, by itself, can be sufficient for crop classification with satisfactory results.
+</p> 
