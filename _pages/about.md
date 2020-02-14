@@ -15,7 +15,6 @@ redirect_from:
 * My research interests lie primarily in the area of SAR Remote Sensing and Applied Machine Learning. I'm the member of [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) and [ISPRS - International Society for Photogrammetry and Remote Sensing](https://www.isprs.org/). I received the award for Top Reviewers for Geosciences - September 2018 from [Publons](https://publons.com/researcher/1175331/mustafa-ustuner/). 
 
 * I have been voluntarily working for the [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) as the social media ambassador lead as well as the social media coordinator for [ISPRS Student Consortium](http://sc.isprs.org/home.html).
-</p> 
 
 
 # Recent News
