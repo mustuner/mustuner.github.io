@@ -19,4 +19,8 @@ Applied Sciences, vol. 9, no. 4, p. 655, Feb. 2019.
 Saygin Abdikan, Caglar Bayik, Fusun Balik Sanli, <b>Mustafa Ustuner</b>.
 <i>2019 9th International Conference on Recent Advances in Space Technologies (RAST)</i>.
 
+<b>[Evaluating the Cloude-Pottier Decomposition for Crop Classification using Multi-Temporal RADARSAT-2 Data](http://mustuner.github.io/publications/cp)</b> <br> 
+<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Esra Erten, Carlos Lopez Martinez.
+<i>The  9th International Workshop on Science and Applications of SAR Polarimetry and Polarimetric Interferometry</i>
+
 will be updated...
