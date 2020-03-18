@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-<p align="justify"> 
- * I  received my MSc and PhD degrees in Geomatic Engineering (Remote Sensing) from [Yildiz Technical University](https://bit.ly/38VCpb7) in 2014 and 2020, respectively. I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, working with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, working with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD. </p> 
+
+ * I  received my MSc and PhD degrees in Geomatic Engineering (Remote Sensing) from [Yildiz Technical University](https://bit.ly/38VCpb7) in 2014 and 2020, respectively. I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, working with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, working with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD.  
  
 * My research interests lie primarily in the area of SAR Remote Sensing and Applied Machine Learning. I'm the member of [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) and [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org/). I received the award for Top Reviewers for Geosciences - September 2018 from [Publons](https://publons.com/researcher/1175331/mustafa-ustuner/). 
 
