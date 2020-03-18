@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-* I  received my MSc and PhD degrees in Geomatic Engineering (Remote Sensing) from [Yildiz Technical University](http://www.grss-ieee.org/) in 2014 and 2020, respectively. 
+* I  received my MSc and PhD degrees in Geomatic Engineering (Remote Sensing) from [Yildiz Technical University](http://www.yildiz.edu.tr/en) in 2014 and 2020, respectively. 
 
-* I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida – St. Petersburg],(www.usfsp.edu) working with [Barnali Dixon] https://works.bepress.com/barnali-dixon/. 
+* I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida – St. Petersburg](www.usfsp.edu), working with [Barnali Dixon](https://works.bepress.com/barnali-dixon/).
   
 * My research interests lie primarily in the area of SAR Remote Sensing and Applied Machine Learning. I'm the member of [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) and [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org/). I received the award for Top Reviewers for Geosciences - September 2018 from [Publons](https://publons.com/researcher/1175331/mustafa-ustuner/). 
 
