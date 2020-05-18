@@ -15,6 +15,7 @@ My research interests lie primarily in the area of SAR Remote Sensing and Applie
 I am going to start working for the [Department of Geomatic Engineering](https://harita.artvin.edu.tr/) in Artvin Coruh University.
 
 # Recent News
+* May 1, 2020. One paper (Turkish) published in [Journal of Geodesy and Geoinformation](https://dergipark.org.tr/en/pub/hkmojjd/issue/50519/623021).
 * September 3, 2019. One paper presented at [Agro-Geoinformatics 2019](https://ieeexplore.ieee.org/abstract/document/8820698). (oral presentation) 
 * July 22, 2019. One paper presented at [RAST 2019](https://ieeexplore.ieee.org/document/8767819). (oral presentation)
 * February 21, 2019. One paper published in [ISPRS International Journal of Geo-Information](https://www.mdpi.com/2220-9964/8/2/97).
