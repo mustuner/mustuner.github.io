@@ -4,7 +4,7 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Yıldız Teknik Üniversitesi, Harita Mühendisliği Bölümü<br>
-34220, Esenler, Istanbul, Turkey <br>
-Email: mustuner [at] yildiz.edu.tr
+Artvin Çoruh Üniversitesi, Harita Mühendisliği Bölümü<br>
+08100 Seyitler, Artvin, Türkiye <br>
+Email: mustuner [at] artvin.edu.tr
 
