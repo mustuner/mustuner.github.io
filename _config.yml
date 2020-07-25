@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Mustafa Ustuner"
   avatar           : "profile.jpg"
-  bio              : "Research Assistant, Geomatic Engineering Department, Yildiz Technical University"
-  location         : "Istanbul, Turkey"
+  bio              : "Geomatic Engineering Department, Artvin Coruh University"
+  location         : "Artvin, Turkey"
   employer         : 
   googlescholar    : "https://scholar.google.com.tr/citations?user=KtXqoWkAAAAJ&hl=tr"
   email            : "mustuner@yildiz.edu.tr"
@@ -100,7 +100,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-0553-2682"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://gis.stackexchange.com/users/15349/mustafa-ustuner"
   steam            :
   tumblr           :
   twitter          : "mustuner2" 
