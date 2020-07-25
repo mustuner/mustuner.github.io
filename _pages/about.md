@@ -14,7 +14,7 @@ My main research interests include PolSAR Remote Sensing, Applied Machine Learni
 
 I have been serving as an [Associate Editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517). 
 I'm a part of the organizing committee for [IGARSS 2020](https://igarss2020.org/default.asp) where serving for the publicity and outreach activities. 
-Also, I'm serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa)
+Also, I'm serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa).
 
 I am currently working for the [Department of Geomatic Engineering](https://harita.artvin.edu.tr/) in Artvin Coruh University as a research assistant.
 
