@@ -4,6 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+
+<b>[Hafif Gradyan Artırma Makineleri ile Tarımsal Ürünlerin Sınıflandırılması](http://mustuner.github.io)</b> <br> 
+<b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2020.
+
+<b>[Çok zamanlı polarimetrik SAR verileri ile tarımsal ürünlerin sınıflandırılması](http://mustuner.github.io/)</b> <br> 
+<b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2020.
+
+<b>[REPEAT-PASS INTERFEROMETRIC AND BACKSCATTER ANALYSIS OF X-BAND PAZ SATELLITE – FIRST RESULTS](http://mustuner.github.io/publications)</b> <br> 
+<b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
+
 <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/publications/lgbm)</b> <br> 
 <b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
 
