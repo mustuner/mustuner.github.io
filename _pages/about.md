@@ -20,6 +20,7 @@ I'm the publicity chair for [IGARSS 2020](https://igarss2020.org/default.asp) wh
 Also, I'm serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa).
 
 # Recent News
+* September, 2020. One paper (Turkish) published in [Turkish Journal of Remote Sensing and GIS](https://dergipark.org.tr/tr/pub/rsgis/issue/56931/740342).
 * July, 2020. I joined the local organizing committee of [IGARSS 2020](https://igarss2020.org/default.asp)
 * July, 2020. I'm serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa).
 * June, 2020. I have been serving as an [Associate Editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517).
