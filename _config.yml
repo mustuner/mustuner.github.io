@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mustafa Ustuner"
+title                    : "Dr. Mustafa Ustuner"
 title_separator          : "-"
 name                     : &name "Mustafa Ustuner"
 description              : 
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mustafa Ustuner"
+  name             : "Dr. Mustafa Ustuner"
   avatar           : "profile.jpg"
   bio              : "Geomatic Engineering Department, Artvin Coruh University"
   location         : "Artvin, Turkey"
