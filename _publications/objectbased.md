@@ -1,5 +1,5 @@
 ---
-title: "Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey"
+title: "Comparison of Object and Pixel-Based Classifications for Mapping Crops using Rapideye Imagery: A Case Study of Menemen Plain, Turkey"
 collection: publications
 permalink: /publications/objectbased
 journal: "International Journal of Environment and Geoinformatics"
