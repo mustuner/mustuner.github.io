@@ -14,7 +14,7 @@ Applied Sciences, vol. 9, no. 4, p. 655, Feb. 2019.
 2- <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/publications/lgbm)</b> (SCI-Exp) <br> 
 <b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
 
-3- <b>[Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey](http://mustuner.github.io/publications/objectbased)</b> (SCI-Exp) <br> 
+3- <b>[Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey](http://mustuner.github.io/publications/objectbased)</b> <br> 
 Mustafa Tolga Esetlili, Filiz Bektas Balcik, Fusun Balik Sanli, Kaan Kalkan, <b>Mustafa Ustuner</b>, Cigdem Goksel, Cem Gazioglu and Yusuf Kurucu, International Journal of Environment and Geoinformatics, vol. 5, no. 2, pp. 231–243, Aug. 2018.
 
 4- <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/publications/lgbm)</b> (SCI-Exp) <br> 
