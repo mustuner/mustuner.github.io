@@ -1,15 +1,15 @@
 ---
-title: "Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation"
+title: "Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey"
 collection: publications
-permalink: /publications/lgbm
-journal: "ISPRS International Journal of Geo-Information"
-date: 2019-2-21
-citation: '<b>M. Ustuner</b> and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation,” ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.'
+permalink: /publications/objectbased
+journal: "International Journal of Environment and Geoinformatics"
+date: 2018-08-01
+citation: 'Mustafa Tolga Esetlili, Filiz Bektas Balcik, Fusun Balik Sanli, Kaan Kalkan, <b>Mustafa Ustuner</b>, Cigdem Goksel, Cem Gazioglu and Yusuf Kurucu, “Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey,” International Journal of Environment and Geoinformatics, vol. 5, no. 2, pp. 231–243, Aug. 2018.'
 ---
-[[PDF]](http://mustuner.github.io/files/lgbm.pdf)
+[[PDF]](https://mustuner.github.io/files/objectbased.pdf)
 
 ## Abstract
 <p align="justify">
-In terms of providing various scattering mechanisms, polarimetric target decompositions provide certain benefits for the interpretation of PolSAR images. This paper tested the capabilities of different polarimetric target decompositions in crop classification, while using a recently launched ensemble learning algorithm—namely Light Gradient Boosting Machine (LightGBM). For the classification of different crops (maize, potato, wheat, sunflower, and alfalfa) in the test site, multi-temporal polarimetric C-band RADARSAT-2 images were acquired over an agricultural area near Konya, Turkey. Four different decomposition models (Cloude–Pottier, Freeman–Durden, Van Zyl, and Yamaguchi) were employed to evaluate polarimetric target decomposition for crop classification. Besides the polarimetric target decomposed parameters, the original polarimetric features (linear backscatter coefficients, coherency, and covariance matrices) were also incorporated for crop classification. The experimental results demonstrated that polarimetric target decompositions, with the exception of Cloude–Pottier, were found to be superior to the original features in terms of overall classification accuracy. The highest classification accuracy (92.07%) was achieved by Yamaguchi, whereas the lowest (75.99%) was achieved by the covariance matrix. Model-based decompositions achieved higher performance with respect to eigenvector-based decompositions in terms of class-based accuracies. Furthermore, the results emphasize the added benefits of model-based decompositions for crop classification using PolSAR data.
+With the latest development and increasing availability of high spatial resolution sensors, earth observation technology offers a viable solution for crop identification and management. There is a strong need to produce accurate, reliable and up to date crop type maps for sustainable agriculture monitoring and management. In this study, RapidEye, the first high-resolution multi-spectral satellite system that operationally provides a Red-edge channel, was used to test the potential of the data for crop type mapping. This study was investigated at a selected region mostly covered with agricultural fields locates in the low lands of Menemen (İzmir) Plain, TURKEY. The potential of the three classification algorithms such as Maximum Likelihood Classification, Support Vector Machine and Object Based Image Analysis is tested. Accuracy assessment of land cover maps has been performed through error matrix and kappa indexes. The results highlighted that all selected classifiers as highly useful (over 90%) in mapping of crop types in the study region however the object-based approach slightly outperforming the Support Vector Machine classification by both overall accuracy and Kappa statistics. The success of selected methods also underlines the potential of RapidEye data for mapping crop types in Aegean region.
 </p> 
 
