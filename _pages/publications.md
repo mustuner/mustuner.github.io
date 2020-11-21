@@ -21,10 +21,6 @@ M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. G
 
 S. Abdikan, G. Bilgin, F. Balik Sanli, E. Uslu, and **M. Ustuner**, “Enhancing land use classification with fusing dual polarized TerraSAR X and multispectral RapidEye data,” *Journal of Applied Remote Sensing*, vol. 9, no. 1, pp. 96054–0, May 2015. [[full text]](http://mustuner.github.io/files/TerraSAR-X.pdf)
 
-6- <b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
-<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
-<i>2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)</i>.
-
 CONFERENCE PAPERS
 
 <b>[An Assessment of Urban Area Extraction Using ALOS-2 Data](http://mustuner.github.io/publications/urbanarea)</b> <br> 
@@ -34,5 +30,9 @@ Saygin Abdikan, Caglar Bayik, Fusun Balik Sanli, <b>Mustafa Ustuner</b>.
 <b>[Evaluating the Cloude-Pottier Decomposition for Crop Classification using Multi-Temporal RADARSAT-2 Data](http://mustuner.github.io/publications/cp)</b> <br> 
 <b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Esra Erten, Carlos Lopez Martinez.
 <i>The  9th International Workshop on Science and Applications of SAR Polarimetry and Polarimetric Interferometry</i>
+
+<b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
+<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
+<i>2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)</i>.
 
 will be updated...
