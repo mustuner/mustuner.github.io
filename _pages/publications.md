@@ -39,4 +39,4 @@ Saygin Abdikan, Caglar Bayik, Fusun Balik Sanli, <b>Mustafa Ustuner</b>.
 <b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
 <i>2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)</i>.
 
-will be updated..
+will be updated...
