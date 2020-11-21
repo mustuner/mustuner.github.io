@@ -11,15 +11,8 @@ R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and **
 
 **M. Ustuner** and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation,” *ISPRS International Journal of Geo-Information*, vol. 8, no. 2, p. 97, Feb. 2019.[[full text]](http://mustuner.github.io/files/lgbm.pdf)
 
-3- <b>[Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey](https://mustuner.github.io/files/objectbased.pdf)</b> <br> 
-Mustafa Tolga Esetlili, Filiz Bektas Balcik, Fusun Balik Sanli, Kaan Kalkan, <b>Mustafa Ustuner</b>, Cigdem Goksel, Cem Gazioglu and Yusuf Kurucu, International Journal of Environment and Geoinformatics, vol. 5, no. 2, pp. 231–243, Aug. 2018.
+M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. Goksel, C. Gazioglu, and Y. Kurucu, “Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey” *International Journal of Environment and Geoinformatics*, vol. 5, no. 2, p. 231–243, Aug. 2018. [[full text]](https://mustuner.github.io/files/objectbased.pdf)
 
-4- <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/publications/lgbm)</b> (SCI-Exp) <br> 
-<b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
-
-5- <b>[Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage](http://mustuner.github.io/publications/cropheight)</b> (SCI-Exp) <br> 
-Rouhollah Nasirzadehdizaji, Fusun Balik Sanli, Saygin Abdikan, Ziyadin Cakir, Ali Ihsan Sekertekin, <b>Mustafa Ustuner</b>.
-Applied Sciences, vol. 9, no. 4, p. 655, Feb. 2019.
 
 6- <b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
 <b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
