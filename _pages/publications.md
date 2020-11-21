@@ -7,6 +7,10 @@ author_profile: true
 
 <b>Peer-reviewed papers</b>
 
+**M. Ustuner**, S. Abdikan, G. Bilgin, and F. Balik Sanli, “Hafif Gradyan Artırma Makineleri ile Tarımsal Ürünlerin Sınıflandırılması,” *Turkish Journal of Remote Sensing and GIS*, vol. 1, no. 2, pp. 97-105, September 2020. [in Turkish] [[full text]](http://mustuner.github.io/files/turkish.pdf)
+
+**M. Ustuner** and F. Balik Sanli, “Çok Zamanlı Polarimetrik SAR Verileri ile Tarımsal Ürünlerin Sınıflandırılması,” *Journal of Geodesy and Geoinformation*, vol. 7, no. 1, pp. 1–10, May 2020. [in Turkish] [[full text]](http://mustuner.github.io/files/geodesy.pdf)
+
 R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and **M. Ustuner**, “Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage” *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[full text]](http://mustuner.github.io/files/cropheight.pdf)
 
 **M. Ustuner** and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation” *ISPRS International Journal of Geo-Information*, vol. 8, no. 2, p. 97, Feb. 2019. [[full text]](http://mustuner.github.io/files/lgbm.pdf)
