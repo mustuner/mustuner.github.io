@@ -27,7 +27,7 @@ S. Abdikan, G. Bilgin, F. Balik Sanli, E. Uslu, and **M. Ustuner**, “Enhancing
 
 CONFERENCE PAPERS
 
-S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020.
+S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020. [[full text]](http://mustuner.github.io/files/paz.pdf)
 
 
 <b>[An Assessment of Urban Area Extraction Using ALOS-2 Data](http://mustuner.github.io/publications/urbanarea)</b> <br> 
