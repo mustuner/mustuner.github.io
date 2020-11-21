@@ -15,6 +15,8 @@ M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. G
 
 **M. Ustuner** and F. Balik Sanli, “Evaluating Training Data for Crop Type Classification using Support Vector Machines and Random Forests” *Geodetski Glasnik*, vol. 51, no. 48, pp. 125–133, Dec. 2017. [[full text]](http://mustuner.github.io/files/glasnik.pdf)
 
+**M. Ustuner**, M.T. Esetlili, F. Balik Sanli, S. Abdikan, and Y. Kurucu, “Comparison of Crop Classification Methods for the Sustainable Agriculture Management” *Journal of Environmental Protection and Ecology*, vol. 17, no. 2, pp. 648–655, Jul. 2016. [[full text]](http://mustuner.github.io/files/JEPE.pdf)
+
 
 6- <b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
 <b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
