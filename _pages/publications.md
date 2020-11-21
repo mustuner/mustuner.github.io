@@ -7,11 +7,7 @@ author_profile: true
 
 <b>JOURNAL PAPERS</b>
 
-1- <b>[Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage](http://mustuner.github.io/files/cropheight.pdf)</b> <b>(SCI-Exp)<b> <br> 
-Rouhollah Nasirzadehdizaji, Fusun Balik Sanli, Saygin Abdikan, Ziyadin Cakir, Ali Ihsan Sekertekin, <b>Mustafa Ustuner</b>.
-Applied Sciences, vol. 9, no. 4, p. 655, Feb. 2019.
-  
-R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and M. Ustuner, [“Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage”](http://mustuner.github.io/files/cropheight.pdf) *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[pdf]](http://mustuner.github.io/files/cropheight.pdf) 
+R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and M. Ustuner, “Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage” *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[full text]](http://mustuner.github.io/files/cropheight.pdf) 
 
 2- <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/files/lgbm.pdf)</b> (SCI-Exp) <br> 
 <b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
