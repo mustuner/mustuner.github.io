@@ -29,17 +29,4 @@ CONFERENCE PAPERS
 
 S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020. [[full text]](http://mustuner.github.io/files/paz.pdf)
 
-
-<b>[An Assessment of Urban Area Extraction Using ALOS-2 Data](http://mustuner.github.io/publications/urbanarea)</b> <br> 
-Saygin Abdikan, Caglar Bayik, Fusun Balik Sanli, <b>Mustafa Ustuner</b>.
-<i>2019 9th International Conference on Recent Advances in Space Technologies (RAST)</i>.
-
-<b>[Evaluating the Cloude-Pottier Decomposition for Crop Classification using Multi-Temporal RADARSAT-2 Data](http://mustuner.github.io/publications/cp)</b> <br> 
-<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Esra Erten, Carlos Lopez Martinez.
-<i>The  9th International Workshop on Science and Applications of SAR Polarimetry and Polarimetric Interferometry</i>
-
-<b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
-<b>Mustafa Ustuner</b>, Fusun Balik Sanli, Saygin Abdikan, Gokhan Bilgin, Cigdem Goksel.
-<i>2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)</i>.
-
 will be updated....
