@@ -5,12 +5,11 @@ author_profile: true
 ---
 <br>
 
-<b>JOURNAL PAPERS</b>
+<b>Peer-reviewed papers</b>
 
-R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and M. Ustuner, “Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage” *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[full text]](http://mustuner.github.io/files/cropheight.pdf) 
+R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and **M. Ustuner**, “Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage” *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[full text]](http://mustuner.github.io/files/cropheight.pdf)
 
-2- <b>[Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation](http://mustuner.github.io/files/lgbm.pdf)</b> (SCI-Exp) <br> 
-<b>Mustafa Ustuner</b> and Fusun Balik Sanli, ISPRS International Journal of Geo-Information, vol. 8, no. 2, p. 97, Feb. 2019.
+**M. Ustuner** and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation,” *ISPRS International Journal of Geo-Information*, vol. 8, no. 2, p. 97, Feb. 2019.[[full text]](http://mustuner.github.io/files/lgbm.pdf)
 
 3- <b>[Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey](https://mustuner.github.io/files/objectbased.pdf)</b> <br> 
 Mustafa Tolga Esetlili, Filiz Bektas Balcik, Fusun Balik Sanli, Kaan Kalkan, <b>Mustafa Ustuner</b>, Cigdem Goksel, Cem Gazioglu and Yusuf Kurucu, International Journal of Environment and Geoinformatics, vol. 5, no. 2, pp. 231–243, Aug. 2018.
