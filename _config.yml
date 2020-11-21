@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Mustafa Ustuner"
+title                    : "Mustafa Ustuner,PhD"
 title_separator          : "-"
-name                     : &name "Dr. Mustafa Ustuner"
+name                     : &name "Mustafa Ustuner,PhD"
 description              : 
 url                      : https://mustuner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Mustafa Ustuner"
+  name             : "Mustafa Ustuner,PhD"
   avatar           : "profile.jpg"
   bio              : "Geomatic Engineering Department, Artvin Coruh University"
   location         : "Artvin, Turkey"
   employer         : 
   googlescholar    : "https://scholar.google.com.tr/citations?user=KtXqoWkAAAAJ&hl=tr"
-  email            : "mustuner@yildiz.edu.tr"
+  email            : "mustuner@artvin.edu.tr"
   uri              : 
   bitbucket        :
   codepen          :
