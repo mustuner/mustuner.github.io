@@ -9,9 +9,11 @@ author_profile: true
 
 R. Nasirzadehdizaji, F. Balik Sanli, S. Abdikan, Z. Cakir, A. Sekertekin, and **M. Ustuner**, “Sensitivity Analysis of Multi-Temporal Sentinel-1 SAR Parameters to Crop Height and Canopy Coverage” *Applied Sciences*, vol. 9, no. 4, p. 655, Feb. 2019. [[full text]](http://mustuner.github.io/files/cropheight.pdf)
 
-**M. Ustuner** and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation,” *ISPRS International Journal of Geo-Information*, vol. 8, no. 2, p. 97, Feb. 2019.[[full text]](http://mustuner.github.io/files/lgbm.pdf)
+**M. Ustuner** and F. Balik Sanli, “Polarimetric Target Decompositions and Light Gradient Boosting Machine for Crop Classification: A Comparative Evaluation” *ISPRS International Journal of Geo-Information*, vol. 8, no. 2, p. 97, Feb. 2019. [[full text]](http://mustuner.github.io/files/lgbm.pdf)
 
-M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. Goksel, C. Gazioglu, and Y. Kurucu, “Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey” *International Journal of Environment and Geoinformatics*, vol. 5, no. 2, p. 231–243, Aug. 2018. [[full text]](https://mustuner.github.io/files/objectbased.pdf)
+M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. Goksel, C. Gazioglu, and Y. Kurucu, “Comparison of Object and Pixel-Based Classifications For Mapping Crops Using Rapideye Imagery: A Case Study Of Menemen Plain, Turkey” *International Journal of Environment and Geoinformatics*, vol. 5, no. 2, pp. 231–243, Aug. 2018. [[full text]](https://mustuner.github.io/files/objectbased.pdf)
+
+**M. Ustuner** and F. Balik Sanli, “Evaluating Training Data for Crop Type Classification using Support Vector Machines and Random Forests” *Geodetski Glasnik*, vol. 51, no. 48, pp. 125–133, Dec. 2017. [[full text]](http://mustuner.github.io/files/glasnik.pdf)
 
 
 6- <b>[A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery](http://mustuner.github.io/publications/booster)</b> (SCI-Exp) <br> 
