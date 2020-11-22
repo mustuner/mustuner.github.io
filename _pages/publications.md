@@ -31,9 +31,9 @@ S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interfe
 
 S. R. Reyes, A. K. M. Jaojoco, C. Cruz, C. Jjuuko, **M. Üstüner**, J. C. K. Chow, and S. Guliyeva, “The ISPRS Student Consortium: Sustaining Relevance and Creating Shared Visions for the Youth”, <i>ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. V-5-2020, pp. 39-46, 2020. [[full text]](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-5-2020/39/2020/isprs-annals-V-5-2020-39-2020.pdf) 
 
-**M. Ustuner** and F. Balik Sanli, “Multitemporal SAR Classification of Urban Areas using Extremely Randomized Trees”, *International Symposium on Applied Geoinformatics (ISAG-2019)*, p. 79, Nov. 2019. [[abstract](http://mustuner.github.io/files/ISAG2019.pdf)
+**M. Ustuner** and F. Balik Sanli, “Multitemporal SAR Classification of Urban Areas using Extremely Randomized Trees”, *International Symposium on Applied Geoinformatics (ISAG-2019)*, p. 79, Nov. 2019. [[abstract]](http://mustuner.github.io/files/ISAG2019.pdf)
 
-**M. Ustuner** and F. Balik Sanli, “Regularized Greedy Forests for Polarimetric SAR Image Classification”, *XXIX International Symposium on ıModern Technologies, Education and Professional Practice in Geodesy and Related Fields*, p. 44, Nov. 2019. [[abstract](http://mustuner.github.io/files/RGF19.pdf)
+**M. Ustuner** and F. Balik Sanli, “Regularized Greedy Forests for Polarimetric SAR Image Classification”, *XXIX International Symposium on ıModern Technologies, Education and Professional Practice in Geodesy and Related Fields*, p. 44, Nov. 2019. [[abstract]](http://mustuner.github.io/files/RGF19.pdf)
 
 **M. Ustuner**, F. Balik Sanli, S. Abdikan, G. Bilgin, and C. Goksel, "A Booster Analysis of Extreme Gradient Boosting for Crop Classification using PolSAR Imagery," in *2019 8th International Conference on Agro-Geoinformatics (Agro-Geoinformatics)*, pp. 1-4, 2019. [[full text]](http://mustuner.github.io/files/booster.pdf)
 
