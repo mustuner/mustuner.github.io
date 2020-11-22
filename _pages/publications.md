@@ -27,6 +27,8 @@ S. Abdikan, G. Bilgin, F. Balik Sanli, E. Uslu, and **M. Ustuner**, “Enhancing
 
 CONFERENCE PAPERS
 
-S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020. [[full text]](http://mustuner.github.io/files/paz.pdf)
+S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/253/2020/isprs-archives-XLIII-B3-2020-253-2020.pdf)
+
+S. R. Reyes, A. K. M. Jaojoco, C. Cruz, C. Jjuuko, **M. Üstüner**, J. C. K. Chow, and S. Guliyeva, “The ISPRS Student Consortium: Sustaining Relevance and Creating Shared Visions for the Youth”, <i>ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. V-5-2020, pp. 39-46, 2020. [[full text]](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/V-5-2020/39/2020/isprs-annals-V-5-2020-39-2020.pdf) 
 
 will be updated....
