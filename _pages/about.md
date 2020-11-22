@@ -16,8 +16,8 @@ My main research interests include PolSAR Remote Sensing, Applied Machine Learni
 I'm also a member of Information Resources for IEEE GRSS
 
 I have been serving as an [Associate Editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517). 
-I'm the publicity chair for [IGARSS 2020](https://igarss2020.org/default.asp) where serving for social media and outreach activities. 
-Also, I'm serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa).
+I was the publicity co-chair for [IGARSS 2020](https://igarss2020.org/default.asp) where serving for social media and outreach activities. 
+Also, I was serving as the [publicity co-chair](http://www.idrcongress.org/en/steering-committee) for the [International Disaster and Resilience Congress](http://www.idrcongress.org/en/anasayfa).
 
 # Recent News
 * September, 2020. One paper (Turkish) published in [Turkish Journal of Remote Sensing and GIS](https://dergipark.org.tr/tr/pub/rsgis/issue/56931/740342).
