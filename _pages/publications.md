@@ -5,7 +5,7 @@ author_profile: true
 ---
 <br>
 
-<b>Peer-reviewed papers</b>
+<b>Peer-reviewed Papers</b>
 
 **M. Ustuner**, S. Abdikan, G. Bilgin, and F. Balik Sanli, “Hafif Gradyan Artırma Makineleri ile Tarımsal Ürünlerin Sınıflandırılması,” *Turkish Journal of Remote Sensing and GIS*, vol. 1, no. 2, pp. 97-105, September 2020. [in Turkish] [[full text]](http://mustuner.github.io/files/turkish.pdf)
 
@@ -25,7 +25,7 @@ M.T. Esetlili, F. Bektas Balcik, F. Balik Sanli, K. Kalkan, **M. Ustuner**, C. G
 
 S. Abdikan, G. Bilgin, F. Balik Sanli, E. Uslu, and **M. Ustuner**, “Enhancing land use classification with fusing dual polarized TerraSAR X and multispectral RapidEye data,” <i>Journal of Applied Remote Sensing</i>, vol. 9, no. 1, pp. 96054–0, May 2015. [[full text]](http://mustuner.github.io/files/TerraSAR-X.pdf)
 
-CONFERENCE PAPERS
+<b>Conference Papers</b> 
 
 S. Abdikan, C. Bayik, **M. Ustuner**, and F. Balik Sanli, “Repeat-Pass Interferometric and Backscatter Analysis of X-Band Paz Satellite - First Results”, <i>ISPRS Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences</i>, vol. 43, pp. 253–258, 2020. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B3-2020/253/2020/isprs-archives-XLIII-B3-2020-253-2020.pdf)
 
