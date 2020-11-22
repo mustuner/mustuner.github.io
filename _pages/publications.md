@@ -39,4 +39,6 @@ S. R. Reyes, A. K. M. Jaojoco, C. Cruz, C. Jjuuko, **M. Üstüner**, J. C. K. Ch
 
 S. Abdikan, C. Bayik, F. Balik Sanli, and **M. Ustuner**, "An Assessment of Urban Area Extraction Using ALOS-2 Data," in *2019 9th International Conference on Recent Advances in Space Technologies (RAST)*, pp. 403-406, 2019. [[full text]](http://mustuner.github.io/files/urbanarea.pdf)
 
+**M. Ustuner**, S. Abdikan, and F. Balik Sanli, “Classification of Forested Areas Using Morphological Profiles in Dual Polarised ALOS/PALSAR Data”, *Proceedings of the IX Conference of the Italian Society of Remote Sensing (AIT2018)*, vol. 1, pp. 49-52, 2019. [[full text]](http://mustuner.github.io/files/ForestPA.pdf)
+
 will be updated....
