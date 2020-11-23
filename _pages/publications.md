@@ -53,5 +53,9 @@ U. Gokdag, **M. Ustuner**, G. Bilgin, and F. B Sanli, "Kernel Extreme Learning M
 
 **M. Ustuner**., G. Bilgin, and F. B. Sanli. "Classification of Sentinel-1A SAR Data Using Principal Component Analysis and Kernel Principal Component Analysis". in *Proceedings of the International Symposium on GIS Applications in Geography and Geosciences (ISGGG 17)*, page 215, October 18–21, 2017. [[abstract]](http://mustuner.github.io/files/isggg-17.pdf)
 
+**M. Ustuner**, F. B. Sanli, G. Bilgin, and S. Abdikan, "Land use and cover classification of Sentinel-IA SAR imagery: A case study of Istanbul," in *2017 25th Signal Processing and Communications Applications Conference (SIU)*, 2017, pp. 1-4. [[full text]](http://mustuner.github.io/files/sentinel-istanbul.pdf)
+
+S. Abdikan, **M. Ustuner**, F. B. Sanli, and G. Bilgin, "Combining Landsat and ALOS data for land cover mapping," in *2017 25th Signal Processing and Communications Applications Conference (SIU)*, 2017, pp. 1-4. [[full text]](http://mustuner.github.io/files/combining-alos-landsat.pdf)
+
 
 will be updated...
