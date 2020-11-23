@@ -47,5 +47,9 @@ S. Abdikan, C. Bayik, F. B. Sanli, and **M. Ustuner**, "An Assessment of Urban A
 
 S. Abdikan, A. Sekertekin, **M. Ustuner**, F. B Sanli, and R. Nasirzadehdizaji, "Backscatter Analysis using Multi-temporal Sentinel-1 SAR Data for Crop Growth of Maize in Konya Basin, Turkey," Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., vol. XLII-3, pp. 9-13, 2018. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-3/9/2018/isprs-archives-XLII-3-9-2018.pdf)
 
+U. Gokdag, **M. Ustuner**, G. Bilgin, and F. B Sanli, "Kernel Extreme Learning Machines for PolSAR Image Classification using Spatial Features," in *2018 26th Signal Processing and Communications Applications Conference (SIU)*, pp. 1-4, 2018. [[full text]](http://mustuner.github.io/files/kelm-siu2018.pdf)
+
+**M. Ustuner**, U. Gokdag, G. Bilgin, and F. B Sanli, "Comparing the classification performances of supervised classifiers with balanced and imbalanced SAR data sets," in *2018 26th Signal Processing and Communications Applications Conference (SIU)*, pp. 1-4, 2018. [[full text]](http://mustuner.github.io/files/balanced.pdf)
+
 
 will be updated...
