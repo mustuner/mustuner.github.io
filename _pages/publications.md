@@ -51,5 +51,7 @@ U. Gokdag, **M. Ustuner**, G. Bilgin, and F. B Sanli, "Kernel Extreme Learning M
 
 **M. Ustuner**, U. Gokdag, G. Bilgin, and F. B Sanli, "Comparing the classification performances of supervised classifiers with balanced and imbalanced SAR data sets," in *2018 26th Signal Processing and Communications Applications Conference (SIU)*, pp. 1-4, 2018. [[full text]](http://mustuner.github.io/files/balanced.pdf)
 
+**M. Ustuner**., G. Bilgin, and F. B. Sanli. "Classification of Sentinel-1A SAR Data Using Principal Component Analysis and Kernel Principal Component Analysis". in *Proceedings of the International Symposium on GIS Applications in Geography and Geosciences (ISGGG 17)*, page 215, October 18–21, 2017. [[abstract]](http://mustuner.github.io/files/isggg-17.pdf)
+
 
 will be updated...
