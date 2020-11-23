@@ -65,6 +65,11 @@ F. B. Sanli, **M. Ustuner**, F. B. Balcik, and C. Goksel, "Investigating the Inf
 
 F. B. Balcik, F. B. Sanli, C. Goksel, and **M. Ustuner**, "Coastal Zone Detection in Istanbul using Landsat 8 OLI Image," In: *Proceedings of the 27th International Cartographic Conference (ICC 2015)*, August, 2015. [[link]](https://icaci.org/files/documents/ICC_proceedings/ICC2015/papers/17/852.html) [[abstract]](http://mustuner.github.io/files/coastal.pdf)
 
+Z.A Polat,**M. Ustuner**, and M. Alkan. "On the Way to Vision of Cadastre 2034: Cadastre 2014 Performance of Turkey" In: *Proceedings of the FIG Working Week 2015 (FIG 2015)*, May 17–21, 2015. [[full text]](https://www.fig.net/resources/proceedings/fig_proceedings/fig2015/papers/ts04c/TS04C_polat_ustuner_7652.pdf)
+
+**M. Ustuner**, F. B. Sanli, S. Abdikan, M. T. Esetlili, and Y. Kurucu, "Crop Type Classification Using Vegetation Indices of RapidEye Imagery," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XL-7, pp. 195-198, 2014. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-7/195/2014/isprsarchives-XL-7-195-2014.pdf)
+
+F. B. Sanli, S. Abdikan, M. T. Esetlili, **M. Ustuner**, and F. Sunar, "Fusion of terrasar-x and rapideye data: a quality analysis," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XL-7/W2, pp. 27-30, 2013. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-7-W2/27/2013/isprsarchives-XL-7-W2-27-2013.pdf)
 
 
 
