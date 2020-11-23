@@ -61,6 +61,11 @@ S. Abdikan, **M. Ustuner**, F. B. Sanli, and G. Bilgin, "Combining Landsat and A
 
 S. Abdikan, F. B. Sanli, **M. Ustuner**, and F. Calò, "Land Cover Mapping using Sentinel-1 SAR Data," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XLI-B7, pp. 757-761, 2016. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B7/757/2016/isprs-archives-XLI-B7-757-2016.pdf)
 
+F. B. Sanli, **M. Ustuner**, F. B. Balcik, and C. Goksel, "Investigating the Influence of Training Set Size for Crop Type Classification using RapidEye," In: *Proceedings of the 27th International Cartographic Conference (ICC 2015)*, August, 2015. [[link]](https://icaci.org/files/documents/ICC_proceedings/ICC2015/papers/30/557.html) [[abstract]](http://mustuner.github.io/files/setsize-rapideye.pdf)
+
+F. B. Balcik, F. B. Sanli, C. Goksel, and **M. Ustuner**, "Coastal Zone Detection in Istanbul using Landsat 8 OLI Image," In: *Proceedings of the 27th International Cartographic Conference (ICC 2015)*, August, 2015. [[link]](https://icaci.org/files/documents/ICC_proceedings/ICC2015/papers/17/852.html) [[abstract]](http://mustuner.github.io/files/coastal.pdf)
+
+
 
 
 will be updated..
