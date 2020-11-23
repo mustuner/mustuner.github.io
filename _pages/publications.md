@@ -71,6 +71,6 @@ Z.A Polat,**M. Ustuner**, and M. Alkan. "On the Way to Vision of Cadastre 2034: 
 
 F. B. Sanli, S. Abdikan, M. T. Esetlili, **M. Ustuner**, and F. Sunar, "Fusion of terrasar-x and rapideye data: a quality analysis," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XL-7/W2, pp. 27-30, 2013. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XL-7-W2/27/2013/isprsarchives-XL-7-W2-27-2013.pdf)
 
-
+**M. Ustuner** and F. B. Sanli, "Comparison of Neural Network and ISODATA classifiers for Land Cover Assessment Using Optical Data," *Proceedings of the FIG Commission 3 Workshop 2012 Spatial Information, Informal Development, Property and Housing*, pp. 1-7, December, 2012. [[full text]](http://mustuner.github.io/files/fig2012.pdf)
 
 will be updated..
