@@ -57,5 +57,10 @@ U. Gokdag, **M. Ustuner**, G. Bilgin, and F. B Sanli, "Kernel Extreme Learning M
 
 S. Abdikan, **M. Ustuner**, F. B. Sanli, and G. Bilgin, "Combining Landsat and ALOS data for land cover mapping," in *2017 25th Signal Processing and Communications Applications Conference (SIU)*, 2017, pp. 1-4. [[full text]](http://mustuner.github.io/files/combining-alos-landsat.pdf)
 
+**M. Ustuner**, F. B. Sanli, and S. Abdikan, "Balanced vs Imbalanced Training Data: Classifying Rapideye Data With Support Vector Machines," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XLI-B7, pp. 379-384, 2016. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B7/379/2016/isprs-archives-XLI-B7-379-2016.pdf)
+
+S. Abdikan, F. B. Sanli, **M. Ustuner**, and F. Calò, "Land Cover Mapping using Sentinel-1 SAR Data," *Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci.*, vol. XLI-B7, pp. 757-761, 2016. [[full text]](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B7/757/2016/isprs-archives-XLI-B7-757-2016.pdf)
+
+
 
 will be updated..
