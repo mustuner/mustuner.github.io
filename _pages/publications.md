@@ -58,4 +58,4 @@ U. Gokdag, **M. Ustuner**, G. Bilgin, and F. B Sanli, "Kernel Extreme Learning M
 S. Abdikan, **M. Ustuner**, F. B. Sanli, and G. Bilgin, "Combining Landsat and ALOS data for land cover mapping," in *2017 25th Signal Processing and Communications Applications Conference (SIU)*, 2017, pp. 1-4. [[full text]](http://mustuner.github.io/files/combining-alos-landsat.pdf)
 
 
-will be updated...
+will be updated..
