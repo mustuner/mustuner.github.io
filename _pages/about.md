@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website!
 
-I hold a PhD and a MSc in Geomatic Engineering ([Yildiz Technical University](https://www.yildiz.edu.tr/en),Turkey), and a BSc in Geodesy and Photogrammetry Engineering ([Karadeniz Technical University](https://www.ktu.edu.tr/en),Turkey).
+I hold a PhD and a MSc in Geomatic Engineering ([Yildiz Technical University](https://www.yildiz.edu.tr/en), Turkey), and a BSc in Geodesy and Photogrammetry Engineering ([Karadeniz Technical University](https://www.ktu.edu.tr/en), Turkey).
 
 I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, worked with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, worked with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD. 
 
