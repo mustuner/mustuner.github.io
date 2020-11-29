@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome!
+Welcome to my website!
 
 I hold a PhD and a MSc in Geomatic Engineering (Yildiz Technical University, Turkey), and a BSc in Geodesy and Photogrammetry Engineering (Karadeniz Technical University, Turkey).
 
