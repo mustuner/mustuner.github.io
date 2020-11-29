@@ -15,7 +15,7 @@ I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [
 
 I worked as a research assistant from March 2011 to June 2020 at the [Department of Geomatic Engineering](http://www.hrm.yildiz.edu.tr/en) in Yildiz Technical University. Currently, I am working for the [Department of Geomatic Engineering](https://harita.artvin.edu.tr/) in Artvin Coruh University.
 
-I have been serving as an [Associate Editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517).
+I have been serving as an [associate editor](https://www.springer.com/journal/12517/editors) for the [Arabian Journal of Geosciences](https://www.springer.com/journal/12517).
  
 My main research interests include Polarimetric Synthetic Aperture Radar (PolSAR) Remote Sensing, Applied Machine Learning and particularly ensemble learning algorithms. I'm the member of [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) and [International Society for Photogrammetry and Remote Sensing](https://www.isprs.org/). I received the award for Top Reviewers for Geosciences - September 2018 from [Publons](https://publons.com/researcher/1175331/mustafa-ustuner/). I have been voluntarily working for the [IEEE Geoscience and Remote Sensing Society](http://www.grss-ieee.org/) as the social media chair as well as the social media coordinator for [ISPRS Student Consortium](http://sc.isprs.org/home.html). I was the publicity co-chair for [IGARSS 2020](https://igarss2020.org/OrganizingCommittee.asp) where serving for social media and outreach activities.
 
