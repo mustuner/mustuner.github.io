@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome!
 
-I  received my MSc and PhD degrees in Geomatic Engineering (Remote Sensing) from [Yildiz Technical University](https://bit.ly/38VCpb7) in 2014 and 2020, respectively. I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, worked with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, worked with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD. 
+I hold a PhD and a MSc in Geomatic Engineering (Yildiz Technical University, Turkey), and a BSc in Geodesy and Photogrammetry Engineering (Karadeniz Technical University, Turkey).
+
+I was a short-term visiting researcher in the Geo-Spatial Analytics Lab at the [University of South Florida](www.usfsp.edu) in the United States, worked with [Barnali Dixon](https://bit.ly/2x54xLW) during my master and was a visiting researcher in the [Department of Earth Observation](https://bit.ly/3acKpWA) at the [Friedrich-Schiller-University of Jena](https://bit.ly/2x9ayaw) in Germany, worked with [Christiane Schmullius](https://bit.ly/2vutNKX) during my PhD. 
 
 I worked as a research assistant from March 2011 to June 2020 at the [Department of Geomatic Engineering](http://www.hrm.yildiz.edu.tr/en) in Yildiz Technical University. Currently, I am working for the [Department of Geomatic Engineering](https://harita.artvin.edu.tr/) in Artvin Coruh University.
  
